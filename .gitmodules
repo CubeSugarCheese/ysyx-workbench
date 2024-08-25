@@ -1,0 +1,15 @@
+[submodule "abstract-machine"]
+	path = abstract-machine
+	url = git@github.com:CubeSugarCheese/abstract-machine.git
+[submodule "npc"]
+	path = npc
+	url = git@github.com:CubeSugarCheese/npc.git
+[submodule "nemu"]
+	path = nemu
+	url = git@github.com:CubeSugarCheese/nemu.git
+[submodule "am-kernels"]
+	path = am-kernels
+	url = git@github.com:CubeSugarCheese/am-kernels.git
+[submodule "fceux-am"]
+	path = fceux-am
+	url = git@github.com:CubeSugarCheese/fceux-am.git
